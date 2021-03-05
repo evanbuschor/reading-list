@@ -1,3 +1,4 @@
 - [Out of the Tar Pit by Ben Moseley](http://curtclifton.net/papers/MoseleyMarks06a.pdf)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Eloquent Javascript Third Edition](https://eloquentjavascript.net/)
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
